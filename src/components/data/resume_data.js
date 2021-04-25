@@ -1,5 +1,5 @@
 import react from '../../assets/icons/react.svg'
-import python from '../../assets/icons/python.svg'
+
 
 const languages = [
     {
