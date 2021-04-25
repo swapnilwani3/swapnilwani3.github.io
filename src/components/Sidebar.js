@@ -44,12 +44,12 @@ const Sidebar = () => {
                 </div>
             </a>
             <figure className="sidebar__social-icons my-2">
-                <a href="https://www.facebook.com/swapnil.wani.338/" target="_blank"><img src={facebook} alt="facebook" className="sidebar__icon mr-3" /></a>
-                <a href="https://www.instagram.com/waniswapnil3/" target="_blank"><img src={instagram} alt="instagram" className="sidebar__icon" /></a>
+                <a href="https://www.facebook.com/swapnil.wani.338/" target="_blank" rel="noopener noreferrer"><img src={facebook} alt="facebook" className="sidebar__icon mr-3" /></a>
+                <a href="https://www.instagram.com/waniswapnil3/" target="_blank" rel="noopener noreferrer"><img src={instagram} alt="instagram" className="sidebar__icon" /></a>
             </figure>
             <div className="sidebar__contact">
                 <div className="sidebar__item sidebar__github">
-                    <a href="https://github.com/swapnilwani3" target="_blank"><img src={github} alt="github" className="sidebar__icon mr-3" />github</a>
+                    <a href="https://github.com/swapnilwani3" target="_blank" rel="noopener noreferrer"><img src={github} alt="github" className="sidebar__icon mr-3" />github</a>
                 </div>
                 <div className="sidebar__location">
                     <img src={pin} alt="location" className="sidebar__icon mr-3" />
