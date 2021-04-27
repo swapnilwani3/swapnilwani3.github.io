@@ -43,23 +43,23 @@ const Resume = () => {
                             Computer Science Enginnering
                         </h5>
                         <p className="resume-card__name">
-                            Academy of Technology(2017-2021)
+                            Vishwakarma Institute of Technology(2018-2022)
                         </p>
-                        <p className="resume-card__details">I am currently persuing B.tech in Computer Science Engineering from Academy of Technology</p>
+                        <p className="resume-card__details">I am currently persuing B.Tech in Computer Science Engineering from Vishwakarma Institute of Technology</p>
                     </div>
                 </div>
                 <div className="col-lg-6 resume-card" >
                     <h4 className="resume-card__heading">
-                        Experience
+                        Current Project working on
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Intern
+                            Vocal For Local
                         </h5>
                         <p className="resume-card__name">
-                            TCS (2020)
+                           From Jan 2021
                         </p>
-                        <p className="resume-card__details">I work as a intern in TCS and also completed some projects on testing</p>
+                        <p className="resume-card__details">This Project is will rise up the voice of local SKILLED workers and I am developing using MERN stack</p>
                     </div>
                 </div>
             </div>
