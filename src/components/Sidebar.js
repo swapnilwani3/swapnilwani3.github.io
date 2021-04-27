@@ -6,12 +6,12 @@ import github from '../assets/icons/github.svg'
 import pin from '../assets/icons/pin.svg'
 import tie from '../assets/icons/tie.svg'
 import mightycoder from '../assets/mightycoder.svg'
-import resume from '../assets/resume.pdf'
+import resume from '../assets/resume.pdf.pdf'
 import { motion } from 'framer-motion'
 
 const Sidebar = () => {
     const handleEmailMe = () => {
-        window.open("mailto:codesumax@gmail.com")
+        window.open("mailto:waniswapnil3@gmail.com")
     }
     const sidebar_variant = {
         hidden: {
@@ -38,7 +38,7 @@ const Sidebar = () => {
             <img src={mightycoder} alt="avatar" className="sidebar__avatar" />
             <div className="sidebar__name">Swapnil <span>Wani</span> </div>
             <div className="sidebar__item sidebar__title">Software Developer</div>
-            <a href={resume} download="resume.pdf">
+            <a href={resume} download="resume.pdf.pdf">
                 <div className="sidebar__item sidebar__resume">
                     <img src={tie} alt="resume" className="sidebar__icon" />Download Resume
                 </div>
