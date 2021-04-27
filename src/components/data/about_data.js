@@ -35,8 +35,8 @@ const skills = [
     },
     {
         icon: computer,
-        title: "Whatever",
-        about: "Apart from tech skill's, I love travelling, making new friends"
+        title: "Hobbies",
+        about: "A blogger or geek who writes not only on Technologies but also on Social Problems"
     },
 ]
 
