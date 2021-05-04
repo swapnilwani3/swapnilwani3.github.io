@@ -69,7 +69,7 @@ const About = () => {
             exit="exit"
         >
             <h6 className="about__intro">
-                I describe myself as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.
+                I describe myself as someone who's persistent, a quick learner and loves problem solving by using simple and scalable solutions.
             </h6>
             <div className="container about__container">
                 <h6 className="about__heading">My Skills</h6>
