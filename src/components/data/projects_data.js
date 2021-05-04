@@ -5,8 +5,8 @@ const data_projects = [
     {
         name: 'COVID 19 tracker',
         image: COVID,
-        deployed_url: 'https://covid-19-tracker-by-sumit.web.app/',
-        github_url: 'https://github.com/Dey-Sumit/covid-19-tracker',
+        deployed_url: '',
+        github_url: '',
         category: ['react.js']
     },
 
