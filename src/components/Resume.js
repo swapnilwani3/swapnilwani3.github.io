@@ -40,7 +40,7 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Computer Science Enginnering
+                            Computer Science Engineering 
                         </h5>
                         <p className="resume-card__name">
                             Vishwakarma Institute of Technology(2018-2022)
